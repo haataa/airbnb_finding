@@ -1,2 +1,2 @@
 # airbnb_finding
-a peek into airbnb data
+a peek into airbnb boston data
